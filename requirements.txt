@@ -3,3 +3,4 @@ pyttsx3
 PyAudio
 wikipedia
 setuptools
+google-generativeai
